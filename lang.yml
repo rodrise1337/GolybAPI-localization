@@ -437,9 +437,9 @@ FRIENDS_ONLINE: '§6§lДрузья §8| §fУ вас §a%s §fдрузей в �
 FRIEND_JOINED: '§6§lДрузья §8| §fВаш друг %s §fзашел на сервер'
 #BUNGEE
 #MOTD: '§a§l⚝ §f§lHide§6§lRise §7§k|§b 1.12.2-1.17 §8▻ §e§lОбновление сервера{newline}§b➳ §fЛетний вайп §6§lВыживания §fи §a§lOneBlock'
-MOTD: '§b▶ §b§lFix§f§lMine §8› §fСкоро глобальное§6§l ОБНОВЛЕНИЕ{newline}§b▶ §fВайп на §a§lSURVIVAL §8§k|§f §b§lONEBLOCK'
+MOTD: '§b▶ §f§lHide§6§lRise §8› §fСкоро глобальное§6§l ОБНОВЛЕНИЕ{newline}§b▶ §fВайп на §a§lSURVIVAL §8§k|§f §b§lONEBLOCK'
 TAB_HEADER: 
-- '§6§lFix§f§lMine'
+- '§f§lHide§6§lRise'
 - ''
 - '§fДонат услуги:'
 - '§ewww.HideRise.ru§f'
@@ -1372,7 +1372,7 @@ ONEBLOCK_START_ITEM_LORE:
 - ''
 - ' §7Создайте остров и начните играть'
 
-SURVIVAL_JOIN_TITLE: '§6§l◀ §6§lFix§f§lMine §6§l▶'
+SURVIVAL_JOIN_TITLE: '§6§l◀ §f§lHide§6§lRise §6§l▶'
 SURVIVAL_JOIN_SUBTITLE: '§fДобро пожаловать на §e§lвыживание'
 
 HOLOGRAM_KILLS_TOP_LINES:
@@ -1454,7 +1454,7 @@ LOBBY_BOARD_BOOSTER_LINE: ' Активный бустер: §c'
 LOBBY_BOARD_GLOBAL_ONLINE_LINE: ' Общий онлайн: §a'
 LOBBY_BOARD_SITE_LINE: '     §ewww.HideRise.ru'
 
-LOBBY_JOIN_TITLE: '§6§l◀ §6§lFix§f§lMine §6§l▶'
+LOBBY_JOIN_TITLE: '§6§l◀ §f§lHide§6§lRise §6§l▶'
 LOBBY_JOIN_SUBTITLE: '§fДобро пожаловать'
 
 PROFILE_ITEM_NAME: '§6§lПрофиль %s §7(ПКМ)'
