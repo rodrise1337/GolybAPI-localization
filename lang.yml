@@ -1338,18 +1338,19 @@ SKYBLOCK_SHOP_LOOT: Магазин различных предметов
 SKYBLOCK_SHOP_CUSTOM: Магазин редких предметов
 
 #SURVIVAL
-SURVIVAL_BOARD_NAME: ' §f§lHide§6§lRise'
-SURVIVAL_BOARD_DATE_LINE: '§7'
-SURVIVAL_BOARD_GROUP_LINE: 'Группа: '
-SURVIVAL_BOARD_PROFILE_LINE: '§e§lПрофиль:'
-SURVIVAL_BOARD_LEVEL_LINE: 'Уровень: §d'
-SURVIVAL_BOARD_COINS_LINE: 'Крышки: §b'
-SURVIVAL_BOARD_GOLD_LINE: 'Золото: §6'
-SURVIVAL_BOARD_MONEY_LINE: 'Монеты: §e'
-SURVIVAL_BOARD_STATS_LINE: 'У/С: §a'
-SURVIVAL_BOARD_BOOSTER_LINE: 'Бустер: §c'
-SURVIVAL_BOARD_LOCAL_ONLINE_LINE: 'Онлайн режима: §a'
-SURVIVAL_BOARD_SITE_LINE: '  §ewww.HideRise.ru'
+SURVIVAL_BOARD_NAME: '§f§lHide§6§lRise §e⚔ §6§lГРИФ-1'
+SURVIVAL_BOARD_DATE_LINE: '    §7'
+SURVIVAL_BOARD_GROUP_LINE: ' Группа: '
+SURVIVAL_BOARD_PROFILE_LINE: ' §6§lИнформация§7:'
+SURVIVAL_BOARD_LEVEL_LINE: '§6§l┏ §fУровень: §7★'
+SURVIVAL_BOARD_COINS_LINE: '§6§l┃ §fКрышки: §d§l☄§d'
+SURVIVAL_BOARD_GOLD_LINE: '§6§l┃ §fЗолото: §e✰§6'
+SURVIVAL_BOARD_MONEY_LINE: '§6§l┃ §fМонеты: §e⛂§e'
+SURVIVAL_BOARD_STATS_LINE: '§6§l┃ §fУ/С: §7§l⚔§a'
+SURVIVAL_BOARD_BOOSTER_LINE: '§6§l┗ §fБустер: §c'
+SURVIVAL_BOARD_LOCAL_ONLINE_LINE: ' Онлайн режима: §a§l✓§a'
+SURVIVAL_BOARD_SITE_LINE: '   §awww.HideRise.ru'
+
 ACHIEVEMENTS_MENU_ITEM_NAME: '§d§lДостижения §7(ПКМ)'
 ACHIEVEMENTS_MENU_ITEM_LORE:
 - ''
