@@ -301,7 +301,7 @@ INFORMATION_SECURITY_LORE:
 - ' §7предусмотрена система безопасности, которая'
 - ' §7позволяет управлять аккаунтом через §9§lVK'
 - ''
-- ' §8▪ §fПривязать аккаунт в группе: §bvk.com/HideRise_ru'
+- ' §8▪ §fПривязать аккаунт в группе: §bvk.com/HideRise'
 - ' §8▪ §fСменить пароль: §6/cp [старый_пароль] [новый_парароль]'
 INFORMATION_SKIN_NAME: '§6§lСкины'
 INFORMATION_SKIN_LORE:
@@ -329,7 +329,7 @@ INFORMATION_LINKS_LORE:
 - ' §6∙ §fАдрес сервера: §6mc.HideRise.ru'
 - ' §a∙ §fСайт для покупки доната: §aHideRise.ru'
 - ' §d∙ §fДискорд сервера: §ddiscord.HideRise.ru'
-- ' §b∙ §fГруппа вконтакте: §bvk.com/HideRise_ru'
+- ' §b∙ §fГруппа вконтакте: §bvk.com/HideRise'
 INFORMATION_CURRENCY_NAME: '§d§lВалюта'
 INFORMATION_CURRENCY_LORE:
 - ''
@@ -499,7 +499,7 @@ AUTH_LOGIN_SUCCESS_NON_VK:
 - '§f'
 - ' §c§l⚠ Внимание! §fВы не привязали страницу §6ВКонтакте§f к своему аккаунту'
 - ' Сделав это, вы сможете управлять аккаунтом и получать уведомления'
-- ' §aСделайте это прямо сейчас§f, написав в сообщения группы: §evk.com/HideRise_ru'
+- ' §aСделайте это прямо сейчас§f, написав в сообщения группы: §evk.com/HideRise'
 - ' Команда - §6!аккаунт привязать [ник]'
 - '§f'
 AUTH_LOGIN_SUCCESS_WITH_VK: '§6§lАвторизация §8| §fАвторизация §aуспешно §fпройдена'
@@ -1499,7 +1499,7 @@ BOSS_BAR_LOBBY:
 - '    §c§lСКИДКИ! §f§lВСЕ ЦЕНЫ БЫЛИ §a§lСНИЖЕНЫ §f§lНА §6§l30%%'
 - '    §f§lПОКУПКА §e§lДОНАТА §f§lНА САЙТЕ §7► §f§lHide§6§lRise.RU'
 - '    §9§lDISCORD §f§lСЕРВЕРА §7► §d§lDISCORD.HideRise.RU'
-- '    §f§lГРУППА СЕРВЕРА §9§lВКОНТАКТЕ §7► §b§lVK.COM/HideRise_RU'
+- '    §f§lГРУППА СЕРВЕРА §9§lВКОНТАКТЕ §7► §b§lVK.COM/HideRise'
 HOLOGRAM_LEVEL_TOP_LINES:
 - '§8§l« §d§lТоп по уровням §8§l»'
 - '§fСамые прокаченные игроки'
@@ -3154,7 +3154,7 @@ LOBBY_JOIN_MESSAGE:
 - '§d❃ §fКликни по компасу, чтобы узнать больше'
 - '§b❃ §fПосмотри свой профиль, нажми на голову'
 - ''
-- '  §9[vk.com/HideRise_ru] §8- §b[discord.HideRise.ru]'
+- '  §9[vk.com/HideRise] §8- §b[discord.HideRise.ru]'
 - '§8§m -------------------------------------------'
 # skywars
 INVITE_TITLE: '              §8-| §6§l%s §8|-'
