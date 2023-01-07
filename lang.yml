@@ -439,14 +439,13 @@ FRIEND_JOINED: '§6§lДрузья §8| §fВаш друг %s §fзашел на
 #MOTD: '§a§l⚝ §f§lHide§6§lRise §7§k|§b 1.12.2-1.17 §8▻ §e§lОбновление сервера{newline}§b➳ §fЛетний вайп §6§lВыживания §fи §a§lOneBlock'
 MOTD: '§b▶ §f§lHide§6§lRise §8› §fСкоро глобальное§6§l ОБНОВЛЕНИЕ{newline}§b▶ §fВайп на §a§lSURVIVAL §8§k|§f §b§lПОДАРКИ'
 TAB_HEADER: 
-- '§f§lHide§6§lRise'
 - ''
-- '§fДонат услуги:'
-- '§ewww.HideRise.ru§f'
+- '§f§lＨＩＤＥ§6§lＲＩＳＥ'
+- ''
+- '§fОбщий онлайн: §a%s §7§l| §fОнлайн - §6%online%/200'
 - ''
 TAB_FOOTER:
 - ''
-- '§fОнлайн проекта: §a%s'
 - ''
 - '§fВы находитесь на режиме:'
 - '§d%s'
